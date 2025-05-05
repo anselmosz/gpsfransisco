@@ -113,7 +113,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(300, 402);
+            this.ClientSize = new System.Drawing.Size(295, 402);
             this.Controls.Add(this.btnSair);
             this.Controls.Add(this.pcbLogo);
             this.Controls.Add(this.txtSenha);

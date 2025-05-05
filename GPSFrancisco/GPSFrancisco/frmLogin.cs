@@ -34,14 +34,32 @@ namespace GPSFrancisco
             txtUsuario.Focus();
         }
 
-        private void btnSair_Click(object sender, EventArgs e)
+        public bool acessarUsuario(string nome, string senha)
         {
-            Application.Exit();
+            MySqlCommand comm = new MySqlCommand();
+            comm.CommandText = "select nome, senha from tbUsuarios where nome =@nome and senha =@senha;";
+            comm.CommandType = CommandType.Text;
+
+            comm.Parameters.Clear();
+
+            comm.Parameters.Add("@nome", MySqlDbType.VarChar, 50).Value = nome;
+            comm.Parameters.Add("@senha", MySqlDbType.VarChar, 12).Value = senha;
+            comm.Connection = Conexao.obterConexao();
+
+            MySqlDataReader DR;
+            DR = comm.ExecuteReader();
+            bool resp = DR.HasRows;
+
+            Conexao.fecharConexao();
+            return resp;
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            if (txtUsuario.Text.Equals("testeusr") && txtSenha.Text.Equals("senha"))
+            string usuario = txtUsuario.Text;
+            string senha = txtSenha.Text;
+
+            if (acessarUsuario(usuario,senha))
             {
                 frmMenuPrincipal abrir = new frmMenuPrincipal();
                 abrir.Show();
@@ -52,6 +70,10 @@ namespace GPSFrancisco
                 MessageBox.Show("Usuário ou senha incorretos!", "mensagem do sistema", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
                 limparCampos();
             }
+        }
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
 
         private void frmLogin_Load(object sender, EventArgs e)

@@ -18,7 +18,15 @@ namespace GPSFrancisco
             InitializeComponent();
         }
 
-        private void btnVoltar_Click(object sender, EventArgs e)
+        private void btnUsuarios_Click(object sender, EventArgs e)
+        {
+
+            frmGerenciarUsuarios abrir = new frmGerenciarUsuarios();
+            abrir.Show();
+            this.Hide();
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
         {
             frmLogin abir = new frmLogin();
             abir.Show();

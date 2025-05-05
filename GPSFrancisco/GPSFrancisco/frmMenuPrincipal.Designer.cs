@@ -29,39 +29,41 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMenuPrincipal));
-            this.btnVoluntarios = new System.Windows.Forms.Button();
-            this.btnVoltar = new System.Windows.Forms.Button();
+            this.btnUsuarios = new System.Windows.Forms.Button();
+            this.btnSair = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // btnVoluntarios
+            // btnUsuarios
             // 
-            this.btnVoluntarios.Location = new System.Drawing.Point(12, 12);
-            this.btnVoluntarios.Name = "btnVoluntarios";
-            this.btnVoluntarios.Size = new System.Drawing.Size(126, 135);
-            this.btnVoluntarios.TabIndex = 0;
-            this.btnVoluntarios.Text = "Voluntários";
-            this.btnVoluntarios.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
-            this.btnVoluntarios.UseVisualStyleBackColor = true;
+            this.btnUsuarios.Image = ((System.Drawing.Image)(resources.GetObject("btnUsuarios.Image")));
+            this.btnUsuarios.Location = new System.Drawing.Point(12, 12);
+            this.btnUsuarios.Name = "btnUsuarios";
+            this.btnUsuarios.Size = new System.Drawing.Size(146, 150);
+            this.btnUsuarios.TabIndex = 0;
+            this.btnUsuarios.Text = "Usuários";
+            this.btnUsuarios.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.btnUsuarios.UseVisualStyleBackColor = true;
+            this.btnUsuarios.Click += new System.EventHandler(this.btnUsuarios_Click);
             // 
-            // btnVoltar
+            // btnSair
             // 
-            this.btnVoltar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnVoltar.Location = new System.Drawing.Point(870, 592);
-            this.btnVoltar.Name = "btnVoltar";
-            this.btnVoltar.Size = new System.Drawing.Size(126, 37);
-            this.btnVoltar.TabIndex = 1;
-            this.btnVoltar.Text = "&Voltar";
-            this.btnVoltar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
-            this.btnVoltar.UseVisualStyleBackColor = true;
-            this.btnVoltar.Click += new System.EventHandler(this.btnVoltar_Click);
+            this.btnSair.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnSair.Location = new System.Drawing.Point(870, 592);
+            this.btnSair.Name = "btnSair";
+            this.btnSair.Size = new System.Drawing.Size(126, 37);
+            this.btnSair.TabIndex = 1;
+            this.btnSair.Text = "&Sair";
+            this.btnSair.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.btnSair.UseVisualStyleBackColor = true;
+            this.btnSair.Click += new System.EventHandler(this.btnSair_Click);
             // 
             // frmMenuPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1008, 641);
-            this.Controls.Add(this.btnVoltar);
-            this.Controls.Add(this.btnVoluntarios);
+            this.Controls.Add(this.btnSair);
+            this.Controls.Add(this.btnUsuarios);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
@@ -75,7 +77,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Button btnVoluntarios;
-        private System.Windows.Forms.Button btnVoltar;
+        private System.Windows.Forms.Button btnUsuarios;
+        private System.Windows.Forms.Button btnSair;
     }
 }

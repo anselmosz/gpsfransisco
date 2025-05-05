@@ -32,7 +32,6 @@ namespace GPSFrancisco
             {
                 pgbPorcentagem.Value = pgbPorcentagem.Value + 10;
                 lblPorcentagem.Text = pgbPorcentagem.Value.ToString() + "%";
-
             }   
             else
             {
