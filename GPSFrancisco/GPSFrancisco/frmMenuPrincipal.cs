@@ -20,7 +20,6 @@ namespace GPSFrancisco
 
         private void btnUsuarios_Click(object sender, EventArgs e)
         {
-
             frmGerenciarUsuarios abrir = new frmGerenciarUsuarios();
             abrir.Show();
             this.Hide();
