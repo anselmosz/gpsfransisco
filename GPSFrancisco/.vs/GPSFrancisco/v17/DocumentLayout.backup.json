@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\gpsfrancisco\\frmgerenciarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|c:\\users\\matheus.sanselmo1\\documents\\visual studio 2022\\gpsfrancisco\\gpsfrancisco\\gpsfrancisco\\frmgerenciarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|solutionrelative:gpsfrancisco\\frmgerenciarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\gpsfrancisco\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|solutionrelative:gpsfrancisco\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\gpsfrancisco\\frmgerenciarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|solutionrelative:gpsfrancisco\\frmgerenciarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|c:\\users\\matheus.sanselmo1\\documents\\visual studio 2022\\gpsfrancisco\\gpsfrancisco\\gpsfrancisco\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\gpsfrancisco\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|solutionrelative:gpsfrancisco\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|c:\\users\\matheus.sanselmo1\\documents\\visual studio 2022\\gpsfrancisco\\gpsfrancisco\\gpsfrancisco\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\gpsfrancisco\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|solutionrelative:gpsfrancisco\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|c:\\users\\matheus.sanselmo1\\documents\\visual studio 2022\\gpsfrancisco\\gpsfrancisco\\gpsfrancisco\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|solutionrelative:gpsfrancisco\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\gpsfrancisco\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|solutionrelative:gpsfrancisco\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\gpsfrancisco\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|solutionrelative:gpsfrancisco\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\gpsfrancisco\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8581FA-E1CF-4673-86BD-8036FCF4088A}|GPSFrancisco\\GPSFrancisco.csproj|solutionrelative:gpsfrancisco\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\GPSFrancisco\\Conexao.cs",
+              "RelativeDocumentMoniker": "GPSFrancisco\\Conexao.cs",
+              "ToolTip": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\GPSFrancisco\\Conexao.cs",
+              "RelativeToolTip": "GPSFrancisco\\Conexao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:22:31.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\GPSFrancisco\\frmLogin.cs",
               "RelativeDocumentMoniker": "GPSFrancisco\\frmLogin.cs",
@@ -50,13 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\GPSFrancisco\\frmLogin.cs",
               "RelativeDocumentMoniker": "GPSFrancisco\\frmLogin.cs",
               "ToolTip": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\GPSFrancisco\\frmLogin.cs",
               "RelativeToolTip": "GPSFrancisco\\frmLogin.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T13:49:37.645Z",
               "EditorCaption": ""
@@ -69,14 +86,14 @@
               "RelativeDocumentMoniker": "GPSFrancisco\\frmGerenciarUsuarios.cs",
               "ToolTip": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\GPSFrancisco\\frmGerenciarUsuarios.cs",
               "RelativeToolTip": "GPSFrancisco\\frmGerenciarUsuarios.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDgAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAuwOAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T14:02:11.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmGerenciarUsuarios.cs [Design]",
               "DocumentMoniker": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\GPSFrancisco\\frmGerenciarUsuarios.cs",
               "RelativeDocumentMoniker": "GPSFrancisco\\frmGerenciarUsuarios.cs",
@@ -88,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "frmMenuPrincipal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\GPSFrancisco\\frmMenuPrincipal.cs",
               "RelativeDocumentMoniker": "GPSFrancisco\\frmMenuPrincipal.cs",
@@ -100,13 +117,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "frmMenuPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\GPSFrancisco\\frmMenuPrincipal.cs",
               "RelativeDocumentMoniker": "GPSFrancisco\\frmMenuPrincipal.cs",
               "ToolTip": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFrancisco\\GPSFrancisco\\GPSFrancisco\\frmMenuPrincipal.cs",
               "RelativeToolTip": "GPSFrancisco\\frmMenuPrincipal.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAswBwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T13:55:03.179Z",
               "EditorCaption": ""
