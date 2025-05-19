@@ -19,6 +19,13 @@ namespace GPSFrancisco
             desabilitarCampos();
         }
 
+        public frmGerenciarUsuarios(string nome)
+        {
+            InitializeComponent();
+            desabilitarCampos();
+            txtNome.Text = nome;
+        }
+
         public void desabilitarCampos()
         {
             txtNome.Enabled = false;
@@ -117,7 +124,7 @@ namespace GPSFrancisco
                                 MessageBoxIcon.Information,
                                 MessageBoxDefaultButton.Button1);
                             desabilitarCamposCadastrar();
-                            buscarUsuarios();
+                            buscarUsuarioCod();
                         }
                         else
                         {
@@ -241,6 +248,14 @@ namespace GPSFrancisco
 
             comm.Connection = Conexao.obterConexao();
             Conexao.fecharConexao();
+        }
+
+        private void btnPesquisar_Click(object sender, EventArgs e)
+        {
+            frmPesquisarUsuarios abrir = new frmPesquisarUsuarios();
+            abrir.Show();
+            this.Hide();
+
         }
     }
 }

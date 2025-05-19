@@ -99,6 +99,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Conexao.cs" />
+    <Compile Include="fmPesquisarUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmPesquisarUsuarios.Designer.cs">
+      <DependentUpon>fmPesquisarUsuarios.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmGerenciarUsuarios.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -125,6 +131,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fmPesquisarUsuarios.resx">
+      <DependentUpon>fmPesquisarUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmGerenciarUsuarios.resx">
       <DependentUpon>frmGerenciarUsuarios.cs</DependentUpon>
     </EmbeddedResource>

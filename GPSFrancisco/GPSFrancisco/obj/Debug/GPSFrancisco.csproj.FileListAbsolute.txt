@@ -44,3 +44,4 @@ C:\Users\matheus.sanselmo1\Documents\Visual Studio 2022\GPSFrancisco\GPSFrancisc
 C:\Users\matheus.sanselmo1\Documents\Visual Studio 2022\GPSFrancisco\GPSFrancisco\GPSFrancisco\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\matheus.sanselmo1\Documents\Visual Studio 2022\GPSFrancisco\GPSFrancisco\GPSFrancisco\obj\Debug\GPSFranc.6682C739.Up2Date
 C:\Users\matheus.sanselmo1\Documents\Visual Studio 2022\GPSFrancisco\GPSFrancisco\GPSFrancisco\obj\Debug\GPSFrancisco.frmGerenciarUsuarios.resources
+C:\Users\matheus.sanselmo1\Documents\Visual Studio 2022\GPSFrancisco\GPSFrancisco\GPSFrancisco\obj\Debug\GPSFrancisco.frmPesquisarUsuarios.resources
